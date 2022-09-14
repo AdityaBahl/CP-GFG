@@ -10,4 +10,5 @@ _It is not necessary that the efficient solution is more efficient than the basi
 _It may mean that the efficient solution is better in terms of :-_
 
 1. Time Complexity
-2.
+2. Shorter Code
+3.
