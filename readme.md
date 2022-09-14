@@ -5,7 +5,7 @@ _This is practise of Competitive Programming as learned by me via a Geeks for Ge
 1. Basic
 2. Efficient
 
-_Both ways are absolutely correct. However what they are different in is their efficiency!_
+_Both ways are absolutely correct._
 _It is not necessary that the efficient solution is more efficient than the basic one solely on the running time complexity._
 _It may mean that the efficient solution is better in terms of :-_
 
@@ -13,3 +13,4 @@ _It may mean that the efficient solution is better in terms of :-_
 2. Shorter Code
 3. Code Readability
 4. Space Complexity
+5.
