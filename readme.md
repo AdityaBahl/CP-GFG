@@ -5,4 +5,4 @@ _This is practise of Competitive Programming as learned by me via a Geeks for Ge
 1. Basic
 2. Efficient
 
-_Both ways are absolutely correct._
+_Both ways are absolutely correct. However what they are different in is their efficiency!_
